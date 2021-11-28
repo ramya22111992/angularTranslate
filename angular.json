@@ -27,11 +27,33 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
+            "fr": {
+              "aot": true,
+              "outputPath": "dist/translate/",
+              "i18nFile": "src/src/translation/translate-fr.xlf",
+              "i18nFormat": "xlf",
+              "baseHref": "/fr",
+              "i18nLocale": "fr",
+              "i18nMissingTranslation": "error"
+            },
+            "en": {
+              "aot": true,
+              "outputPath": "dist/translate/",
+              "i18nFile": "src/src/translation/translate.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "en",
+              "baseHref": "/en",
+              "i18nMissingTranslation": "error"
+            },
             "production": {
               "fileReplacements": [
                 {
@@ -64,6 +86,12 @@
             "browserTarget": "translate:build"
           },
           "configurations": {
+            "fr": {
+              "browserTarget": "translate:build:fr"
+            },
+            "en": {
+              "browserTarget": "translate:build:en"
+            },
             "production": {
               "browserTarget": "translate:build:production"
             }

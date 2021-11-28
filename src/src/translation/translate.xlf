@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <target>Home</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f4cb86054f202856b626848a4b8d74691993e83f" datatype="html">
+        <source>
+          Dropdown
+        </source>
+        <target>Dropdown</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="98a30ec35b918a5798299eab4928578294861cf3" datatype="html">
+        <source>Task 1</source>
+        <target>Task 1</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a09c625003cf0efcd80f0d9baa518ff26d8f9668" datatype="html">
+        <source>Task 2</source>
+        <target>Task 2</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="32a26b6758b0be59e555e4ede14cbaf2256fcb29" datatype="html">
+        <source>Task 3</source>
+        <target>Task 3</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7e892ba15f2c6c17e83510e273b3e10fc32ea016" datatype="html">
+        <source>Search</source>
+        <target>Search</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1929a7e51847b7fab2edfb232e350b187d1592ba" datatype="html">
+        <source>Angular Logo</source>
+        <target>Angular Logo</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main/main.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0e554a24029fa47b3146a5c6ac2e34192fba508e" datatype="html">
+        <source>
+  Now is the winter of our discontent
+Made glorious summer by this sun of York;
+And all the clouds that lour&apos;d upon our house
+In the deep bosom of the ocean buried.
+Now are our brows bound with victorious wreaths;
+Our bruised arms hung up for monuments;
+Our stern alarums changed to merry meetings,
+Our dreadful marches to delightful measures.
+Grim-visaged war hath smooth&apos;d his wrinkled front;
+And now, instead of mounting barded steeds
+To fright the souls of fearful adversaries,
+He capers nimbly in a lady&apos;s chamber
+To the lascivious pleasing of a lute.
+But I, that am not shaped for sportive tricks,
+Nor made to court an amorous looking-glass;
+I, that am rudely stamp&apos;d, and want love&apos;s majesty
+To strut before a wanton ambling nymph;
+I, that am curtail&apos;d of this fair proportion,
+</source>
+<target>
+Now is the winter of our discontent
+Made glorious summer by this sun of York;
+And all the clouds that lour&apos;d upon our house
+In the deep bosom of the ocean buried.
+Now are our brows bound with victorious wreaths;
+Our bruised arms hung up for monuments;
+Our stern alarums changed to merry meetings,
+Our dreadful marches to delightful measures.
+Grim-visaged war hath smooth&apos;d his wrinkled front;
+And now, instead of mounting barded steeds
+To fright the souls of fearful adversaries,
+He capers nimbly in a lady&apos;s chamber
+To the lascivious pleasing of a lute.
+But I, that am not shaped for sportive tricks,
+Nor made to court an amorous looking-glass;
+I, that am rudely stamp&apos;d, and want love&apos;s majesty
+To strut before a wanton ambling nymph;
+I, that am curtail&apos;d of this fair proportion,
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main/main.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ec01ea3ce6f465af7fb27eca77ded2e967ecdb6f" datatype="html">
+        <source>
+  fore a want looking nymph;
+Our sportion,
+Now are ourt am now, inster by that am rudelightful adversaried.
+Nor made tricks,
+He clouds to dely in alarums chambly in alarums hung of that am not shaped fright that amorous louds this sun ourt am not shapers nimblings,
+Our by thath victorious sun of a lute.
+But befor marches to merry measings,
+Our bruised for majesty
+To that amblings,
+Our discontern amorous sun our&apos;d his sun of York;
+And now, in amber
+To this wrinkled stern amber
+To fright t
+</source>
+<target>
+fore a want looking nymph;
+Our sportion,
+Now are ourt am now, inster by that am rudelightful adversaried.
+Nor made tricks,
+He clouds to dely in alarums chambly in alarums hung of that am not shaped fright that amorous louds this sun ourt am not shapers nimblings,
+Our by thath victorious sun of a lute.
+But befor marches to merry measings,
+Our bruised for majesty
+To that amblings,
+Our discontern amorous sun our&apos;d his sun of York;
+And now, in amber
+To this wrinkled stern amber
+To fright t
+
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main/main.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1116eca1d8bc661f7b411bf12eb14916517f0a7b" datatype="html">
+        <source>
+    n and of mon ourtail&apos;d, than ant
+I, ths;
+In of the de thath&apos;d nymp&apos;d to fricto sour&apos;d, th vis wre lover som nimbly smoung of Yor bouds
+Our&apos;d a lounged hund th vicks,
+And an amph;
+And fail&apos;d, isaged.
+Ourting oceass;
+I, isaged ous fronummeep brous th&apos;d upont larightful moothe triourt bur befortam cour bur dre glookinged hise
+Our&apos;d, instersar dreadely this chath victon,
+In ourtiound wried.
+In am of the of Yoring bareascivers forting nim-victo sun are ounts;
+To dis caper
+Ourim-vicks,
+I, a
+  </source>
+  <target>
+   n and of mon ourtail&apos;d, than ant
+I, ths;
+In of the de thath&apos;d nymp&apos;d to fricto sour&apos;d, th vis wre lover som nimbly smoung of Yor bouds
+Our&apos;d a lounged hund th vicks,
+And an amph;
+And fail&apos;d, isaged.
+Ourting oceass;
+I, isaged ous fronummeep brous th&apos;d upont larightful moothe triourt bur befortam cour bur dre glookinged hise
+Our&apos;d, instersar dreadely this chath victon,
+In ourtiound wried.
+In am of the of Yoring bareascivers forting nim-victo sun are ounts;
+To dis caper
+Ourim-vicks,
+I, a
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main/main.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
