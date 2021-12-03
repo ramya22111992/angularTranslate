@@ -1,3 +1,4 @@
+import { APP_BASE_HREF, getLocaleId } from '@angular/common';
 import { Component, Inject, LOCALE_ID, OnInit } from '@angular/core';
 
 @Component({
@@ -7,7 +8,7 @@ import { Component, Inject, LOCALE_ID, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
-  constructor(@Inject(LOCALE_ID) protected localeId: string) { }
+  constructor(@Inject(LOCALE_ID) private localeId: string) {}
 
   public selectedLocale:string=this.localeId;
 
@@ -15,8 +16,6 @@ export class HeaderComponent implements OnInit {
     {name:"French",code:"fr"},
     { name:"English",code:"en"}
   ]
-
-
 
   ngOnInit() {
   }

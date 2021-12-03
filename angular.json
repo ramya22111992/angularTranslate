@@ -36,22 +36,22 @@
             ]
           },
           "configurations": {
-            "fr": {
-              "aot": true,
-              "outputPath": "dist/translate/",
+            "fr_fr": {
+              "aot":true,
+              "outputPath": "dist/fr/",
               "i18nFile": "src/src/translation/translate-fr.xlf",
               "i18nFormat": "xlf",
-              "baseHref": "/fr",
+              "baseHref": "/fr/",
               "i18nLocale": "fr",
               "i18nMissingTranslation": "error"
             },
-            "en": {
-              "aot": true,
-              "outputPath": "dist/translate/",
+            "en_us": {
+              "aot":true,
+              "outputPath": "dist/en/",
               "i18nFile": "src/src/translation/translate.xlf",
               "i18nFormat": "xlf",
               "i18nLocale": "en",
-              "baseHref": "/en",
+              "baseHref": "/en/",
               "i18nMissingTranslation": "error"
             },
             "production": {
@@ -86,11 +86,11 @@
             "browserTarget": "translate:build"
           },
           "configurations": {
-            "fr": {
-              "browserTarget": "translate:build:fr"
+            "fr_FR": {
+              "browserTarget": "translate:build:fr_fr"
             },
-            "en": {
-              "browserTarget": "translate:build:en"
+            "en_US": {
+              "browserTarget": "translate:build:en_us"
             },
             "production": {
               "browserTarget": "translate:build:production"
