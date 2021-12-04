@@ -22,7 +22,7 @@ import { APP_BASE_HREF } from '@angular/common';
   providers: [
     {
       provide:LOCALE_ID,
-      useValue:window.location.pathname === "/" ? "en" :window.location.pathname
+      useValue:"en-US"
     }
   ],
   bootstrap: [AppComponent]

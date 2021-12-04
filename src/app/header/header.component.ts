@@ -8,13 +8,17 @@ import { Component, Inject, LOCALE_ID, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
-  constructor(@Inject(LOCALE_ID) private localeId: string) {}
+  constructor(@Inject(LOCALE_ID) private localeId: string) {
+    console.log(this.localeId);
+  }
 
   public selectedLocale:string=this.localeId;
 
   public locales:any=[
-    {name:"French",code:"fr"},
-    { name:"English",code:"en"}
+    {name:"French(France)",code:"fr-FR"},
+    { name:"English(US)",code:"en-US"},
+    { name:"English(Canada)",code:"en-CA"}
+
   ]
 
   ngOnInit() {

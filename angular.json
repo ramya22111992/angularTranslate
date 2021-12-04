@@ -36,22 +36,31 @@
             ]
           },
           "configurations": {
-            "fr_fr": {
+            "fr-FR": {
               "aot":true,
-              "outputPath": "dist/fr/",
-              "i18nFile": "src/src/translation/translate-fr.xlf",
+              "outputPath": "dist/fr-FR/",
+              "i18nFile": "src/src/translation/translate.fr-FR.xlf",
               "i18nFormat": "xlf",
-              "baseHref": "/fr/",
-              "i18nLocale": "fr",
+              "baseHref": "/fr-FR/",
+              "i18nLocale": "fr-FR",
               "i18nMissingTranslation": "error"
             },
-            "en_us": {
+            "en-CA": {
               "aot":true,
-              "outputPath": "dist/en/",
-              "i18nFile": "src/src/translation/translate.xlf",
+              "outputPath": "dist/en-CA/",
+              "i18nFile": "src/src/translation/translate.en-CA.xlf",
               "i18nFormat": "xlf",
-              "i18nLocale": "en",
-              "baseHref": "/en/",
+              "baseHref": "/en-CA/",
+              "i18nLocale": "en-CA",
+              "i18nMissingTranslation": "error"
+            },
+            "en-US": {
+              "aot":true,
+              "outputPath": "dist/en-US/",
+              "i18nFile": "src/src/translation/translate.en-US.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "en-US",
+              "baseHref": "/en-US/",
               "i18nMissingTranslation": "error"
             },
             "production": {
@@ -86,11 +95,14 @@
             "browserTarget": "translate:build"
           },
           "configurations": {
-            "fr_FR": {
-              "browserTarget": "translate:build:fr_fr"
+            "fr-FR": {
+              "browserTarget": "translate:build:fr-FR"
             },
-            "en_US": {
-              "browserTarget": "translate:build:en_us"
+            "en-US": {
+              "browserTarget": "translate:build:en-US"
+            },
+            "en-CA": {
+              "browserTarget": "translate:build:en-CA"
             },
             "production": {
               "browserTarget": "translate:build:production"

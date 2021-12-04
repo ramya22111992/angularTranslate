@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <target>Home</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f4cb86054f202856b626848a4b8d74691993e83f" datatype="html">
+        <source>
+          Dropdown
+        </source>
+        <target>Dropdown</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="98a30ec35b918a5798299eab4928578294861cf3" datatype="html">
+        <source>Task 1</source>
+        <target>Task 1</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a09c625003cf0efcd80f0d9baa518ff26d8f9668" datatype="html">
+        <source>Task 2</source>
+        <target>Task 2</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="32a26b6758b0be59e555e4ede14cbaf2256fcb29" datatype="html">
+        <source>Task 3</source>
+        <target>Task 3</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7e892ba15f2c6c17e83510e273b3e10fc32ea016" datatype="html">
+        <source>Search</source>
+        <target>Search</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1929a7e51847b7fab2edfb232e350b187d1592ba" datatype="html">
+        <source>Angular Logo</source>
+        <target>Angular logo</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main/main.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8c2805337e99c8341a45c3df0f08b576936ff092" datatype="html">
+        <source>flavor</source>
+        <target>flavour</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main/main.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="db96d4c07be58ac3ae8b4b55e6d9b5161214c222" datatype="html">
+        <source>color</source>
+        <target>colour</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main/main.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="70f599bd88c8814129637aa3c0536d3a6a4e0b59" datatype="html">
+        <source>center</source>
+        <target>centre</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main/main.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
